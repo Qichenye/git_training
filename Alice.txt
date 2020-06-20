@@ -1,4 +1,7 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+
 First modification after checkout change_alice.
 Merging divergent branches Alice.
 After branch of patrick alice tries rebase.
+
+Try to fetch changes.
