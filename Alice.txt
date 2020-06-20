@@ -5,3 +5,6 @@ Merging divergent branches Alice.
 After branch of patrick alice tries rebase.
 
 Try to fetch changes.
+
+Change Alice before git pull.
+
