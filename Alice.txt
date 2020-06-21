@@ -9,4 +9,8 @@ Try to fetch changes.
 Change Alice before git pull.
 
 
-Try pulling with conflict. 
+Try pulling with conflict.
+
+Try interactive rebasing.  
+
+More text to Alice to try interactive rebasing.
