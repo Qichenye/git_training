@@ -8,3 +8,5 @@ Try to fetch changes.
 
 Change Alice before git pull.
 
+
+Try pulling with conflict. 
